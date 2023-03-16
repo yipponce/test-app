@@ -1,0 +1,30 @@
+{
+
+    "liga": {
+    "Nombre": "Avengers",
+    "Inicio": "septiembre de 1963",
+    "Locacion": "890 de la Quinta Avenida, Manhattan, Nueva York",
+    "Nombre base secreta": "Casa de stark",
+    "Activo": "true",
+    "Heroes": ["Ant-man", "Gamora", "Spiderman"]
+    },
+    
+    "Ant-Man": {
+    "Identidad Secreta": "Scott Lang",
+    "años": "50",
+    "Poderes": ["Encogerse", "Agrandarse"]
+    
+    },
+    
+    "Gamora": {
+    "Identidad Secreta": "Gamora Zen Whoberi Ben Titan",
+    "años": "41",
+    "Poderes": ["fuerza sobrehumana", "agilidad sobrehumana"]
+    },
+    
+    "Spiderman": {
+    "Identidad Secreta": "Peter Parker",
+    "años": "18",
+    "Poderes": "Poderes aracnidos"
+    } 
+    }

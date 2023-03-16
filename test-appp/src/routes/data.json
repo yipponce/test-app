@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "title": "The Legend of Zelda",
+        "versio":"Ocarina of Time",
+        "genre":"Adventure"
+    },
+    {
+        "id":"2",
+        "title": "Mario Bross",
+        "versio":"Mario Kart",
+        "genre":"Carreras"
+    }
+    
+    
+
+]
