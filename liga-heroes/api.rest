@@ -1,0 +1,19 @@
+###
+
+GET http://localhost:3000/api/productos
+
+POST http://localhost:3000/api/productos
+Content-Type: application/json
+{
+ "Ant-Man": {
+    "Identidad Secreta": "Scott Lang",
+    "años": "50",
+    "Poderes": ["Encogerse", "Agrandarse"]
+    "img": "IMG_6737"
+    }   
+
+###
+
+GET http://localhost:3000/api/productos/
+
+}
